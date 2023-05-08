@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.48, created on 2023-05-07 21:51:43
+/* Smarty version 3.1.48, created on 2023-05-08 10:35:20
   from '/home/ecsdcdwc/public_html/admin204dqium0/themes/default/template/controllers/login/header.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.48',
-  'unifunc' => 'content_645863bfe2f5e0_34212689',
+  'unifunc' => 'content_645916b8bd0e71_15320480',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_645863bfe2f5e0_34212689 (Smarty_Internal_Template $_smarty_tpl) {
+function content_645916b8bd0e71_15320480 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!DOCTYPE html>
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7 lt-ie6"> <![endif]-->
 <!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8 ie7"> <![endif]-->

@@ -79,7 +79,7 @@
   ),
   'AddressController' => 
   array (
-    'path' => '',
+    'path' => 'override/controllers/front/AddressController.php',
     'type' => 'class',
     'override' => false,
   ),
@@ -97,7 +97,7 @@
   ),
   'AddressFormat' => 
   array (
-    'path' => '',
+    'path' => 'override/classes/AddressFormat.php',
     'type' => 'class',
     'override' => false,
   ),
@@ -121,7 +121,7 @@
   ),
   'AddressesController' => 
   array (
-    'path' => '',
+    'path' => 'override/controllers/front/AddressesController.php',
     'type' => 'class',
     'override' => false,
   ),
@@ -757,7 +757,7 @@
   ),
   'AuthController' => 
   array (
-    'path' => '',
+    'path' => 'override/controllers/front/AuthController.php',
     'type' => 'class',
     'override' => false,
   ),
@@ -943,7 +943,7 @@
   ),
   'Cart' => 
   array (
-    'path' => '',
+    'path' => 'override/classes/Cart.php',
     'type' => 'class',
     'override' => false,
   ),
@@ -2203,7 +2203,7 @@
   ),
   'IdentityController' => 
   array (
-    'path' => '',
+    'path' => 'override/controllers/front/IdentityController.php',
     'type' => 'class',
     'override' => false,
   ),
@@ -2611,7 +2611,7 @@
   ),
   'OrderController' => 
   array (
-    'path' => '',
+    'path' => 'override/controllers/front/OrderController.php',
     'type' => 'class',
     'override' => false,
   ),

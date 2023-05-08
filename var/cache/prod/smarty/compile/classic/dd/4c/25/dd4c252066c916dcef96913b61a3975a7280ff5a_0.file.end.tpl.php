@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.48, created on 2023-05-07 21:52:36
+/* Smarty version 3.1.48, created on 2023-05-08 10:35:24
   from '/home/ecsdcdwc/public_html/modules/welcome/views/contents/end.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.48',
-  'unifunc' => 'content_645863f4c1e883_99733915',
+  'unifunc' => 'content_645916bc55c0d7_11410724',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_645863f4c1e883_99733915 (Smarty_Internal_Template $_smarty_tpl) {
+function content_645916bc55c0d7_11410724 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="onboarding-welcome" class="modal-body">
     <div class="col-12">
