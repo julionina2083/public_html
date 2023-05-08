@@ -1,1 +1,0 @@
-[07-May-2023 22:37:52 America/New_York] PHP Warning:  file_put_contents(/home/ecsdcdwc/public_html/var/cache/prod/cacert.pem): failed to open stream: No such file or directory in /home/ecsdcdwc/public_html/classes/Tools.php on line 2153
