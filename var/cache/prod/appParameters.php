@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '216.246.46.90',
+    'database_port' => '3306',
+    'database_name' => 'ecsdcdwc_pixelated_paradise',
+    'database_user' => 'ecsdcdwc_admin',
+    'database_password' => 'Retro2083*',
+    'database_prefix' => 'jn_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'b8kehwOvLZJ1f7MfFHg7DW9E0hz5fguLNvQxRSxxZpjgjtw1UcKzgzpbmuLnxdVu',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2023-05-07',
+    'locale' => 'en-US',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'awpbDFyPfwoSzZijXtF5OQKnGtbNkIrkOLffVS5p9Lx0TYq5yS2fCmj220xOD7BI',
+    'cookie_iv' => 'AJrhDibc3zi5bL0C99FbHH4SiwYqZRbi',
+    'new_cookie_key' => 'def00000f01b15153b8fe7af27b49cb0dc13f9f84ca6aa0cf98fdd8bf76761b1f8c151024f75662b55b30d4302d3a25e49ef43c4ca9f4a8d9f6f38d37c18293dc4f050a6',
+  ),
+);

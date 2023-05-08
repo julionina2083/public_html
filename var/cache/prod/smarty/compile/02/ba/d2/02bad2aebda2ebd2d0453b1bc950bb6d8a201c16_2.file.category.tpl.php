@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.48, created on 2023-05-07 22:40:44
+/* Smarty version 3.1.48, created on 2023-05-07 22:46:07
   from '/home/ecsdcdwc/public_html/themes/classic/templates/catalog/_partials/miniatures/category.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.48',
-  'unifunc' => 'content_6458612caaf833_02216086',
+  'unifunc' => 'content_6458626f11da65_73014634',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,20 +20,20 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6458612caaf833_02216086 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6458626f11da65_73014634 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, false);
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_20421495946458612caaad15_95346389', 'category_miniature_item');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_7981962906458626f1192e9_58128554', 'category_miniature_item');
 ?>
 
 <?php }
 /* {block 'category_miniature_item'} */
-class Block_20421495946458612caaad15_95346389 extends Smarty_Internal_Block
+class Block_7981962906458626f1192e9_58128554 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'category_miniature_item' => 
   array (
-    0 => 'Block_20421495946458612caaad15_95346389',
+    0 => 'Block_7981962906458626f1192e9_58128554',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {

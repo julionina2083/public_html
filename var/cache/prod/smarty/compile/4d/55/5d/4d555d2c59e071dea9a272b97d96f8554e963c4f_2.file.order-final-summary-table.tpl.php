@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.48, created on 2023-05-07 22:40:44
+/* Smarty version 3.1.48, created on 2023-05-07 22:46:06
   from '/home/ecsdcdwc/public_html/themes/classic/templates/checkout/_partials/order-final-summary-table.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.48',
-  'unifunc' => 'content_6458612c883011_98603501',
+  'unifunc' => 'content_6458626eeb2996_20827684',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,25 +20,25 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6458612c883011_98603501 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6458626eeb2996_20827684 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, true);
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_20510980876458612c87e0c5_35967571', 'order-items-table-head');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_14060861916458626eeaf199_01125371', 'order-items-table-head');
 ?>
 
 <?php $_smarty_tpl->inheritance->endChild($_smarty_tpl, 'checkout/_partials/order-confirmation-table.tpl');
 }
 /* {block 'order-items-table-head'} */
-class Block_20510980876458612c87e0c5_35967571 extends Smarty_Internal_Block
+class Block_14060861916458626eeaf199_01125371 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'order-items-table-head' => 
   array (
-    0 => 'Block_20510980876458612c87e0c5_35967571',
+    0 => 'Block_14060861916458626eeaf199_01125371',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
