@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.48, created on 2023-11-12 10:04:55
+/* Smarty version 3.1.48, created on 2023-11-13 16:05:04
   from '/home/ecsdcdwc/public_html/modules/blockreassurance/views/templates/hook/displayBlockWhite.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.48',
-  'unifunc' => 'content_6550e99709c6b3_27275422',
+  'unifunc' => 'content_65528f809356c5_61549957',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'f9a7a0ca75b860ddb762141e1f35d8303d80d84c' => 
     array (
       0 => '/home/ecsdcdwc/public_html/modules/blockreassurance/views/templates/hook/displayBlockWhite.tpl',
-      1 => 1699801458,
+      1 => 1699859820,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6550e99709c6b3_27275422 (Smarty_Internal_Template $_smarty_tpl) {
+function content_65528f809356c5_61549957 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="blockreassurance col-sm-12">
     <?php $_smarty_tpl->_assignInScope('numCols', count($_smarty_tpl->tpl_vars['blocks']->value));?>
     <?php $_smarty_tpl->_assignInScope('numColsRemaining_md', ($_smarty_tpl->tpl_vars['numCols']->value%4));?>
@@ -55,7 +55,7 @@ $_smarty_tpl->tpl_vars['__smarty_foreach_blocks']->value['last'] = $_smarty_tpl-
             <?php }?>
         <?php }?>
         <?php if ($_smarty_tpl->tpl_vars['idxCol']->value > ($_smarty_tpl->tpl_vars['numCols']->value-$_smarty_tpl->tpl_vars['numColsRemaining_sm']->value)) {?>
-            <?php if ($_smarty_tpl->tpl_vars['numColsRemaining_md']->value == 1) {?>
+            <?php if ($_smarty_tpl->tpl_vars['numColsRemaining_sm']->value == 1) {?>
                 <?php $_smarty_tpl->_assignInScope('offsetCol_sm', "offset-sm-3");?>
             <?php } else { ?>
                 <?php $_smarty_tpl->_assignInScope('sizeCol_sm', (12/$_smarty_tpl->tpl_vars['numColsRemaining_md']->value));?>

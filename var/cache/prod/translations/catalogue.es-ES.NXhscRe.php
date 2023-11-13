@@ -8,6 +8,17 @@ $catalogue = new MessageCatalogue('es-ES', array (
     'Best Sellers' => 'Los más vendidos',
     'All best sellers' => 'Los productos más vendidos',
   ),
+  'ModulesContactinfoShop' => 
+  array (
+    'Call us: [1]%phone%[/1]' => 'Tel.: [1]%phone%[/1]',
+    'Email us: [1]%email%[/1]' => 'Email: [1]%email%[/1]',
+    'Contact us' => 'Contacte con nosotros',
+    'Store information' => 'Información de la tienda',
+    'Fax: [1]%fax%[/1]' => 'Fax: [1]%fax%[/1]',
+    'Tel: %phone%' => 'Tel: %phone%',
+    'Fax: %fax%' => 'Fax: %fax%',
+    'Email: [1]%email%[/1]' => 'Email: [1]%email%[/1]',
+  ),
   'AdminAdvparametersHelp' => 
   array (
     '-- Choose --' => '--Elija--',
@@ -3374,17 +3385,6 @@ $catalogue = new MessageCatalogue('es-ES', array (
   array (
     'Tracking - Front office' => 'Afiliados - Acceso al Front Office de tu tienda',
     'Enables your affiliates to access their own statistics. See Stats/Referrers.' => 'Permite a tus afiliados acceder a tus propias estadísticas. Véase Estadísticas/Referidos.',
-  ),
-  'ModulesContactinfoShop' => 
-  array (
-    'Contact us' => 'Contacte con nosotros',
-    'Store information' => 'Información de la tienda',
-    'Fax: [1]%fax%[/1]' => 'Fax: [1]%fax%[/1]',
-    'Email us: [1]%email%[/1]' => 'Envíenos un correo electrónico: [1]%email%[/1]',
-    'Call us: [1]%phone%[/1]' => 'Llámenos: [1]%phone%[/1]',
-    'Tel: %phone%' => 'Tel: %phone%',
-    'Fax: %fax%' => 'Fax: %fax%',
-    'Email: [1]%email%[/1]' => 'Email: [1]%email%[/1]',
   ),
   'ModulesNewsletterAdmin' => 
   array (

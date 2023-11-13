@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.48, created on 2023-05-08 09:46:27
+/* Smarty version 3.1.48, created on 2023-11-13 15:52:17
   from 'module:psbannerpsbanner.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.48',
-  'unifunc' => 'content_64590b43cb85e2_50991150',
+  'unifunc' => 'content_65528c812287a5_74709405',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,7 +18,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_64590b43cb85e2_50991150 (Smarty_Internal_Template $_smarty_tpl) {
+function content_65528c812287a5_74709405 (Smarty_Internal_Template $_smarty_tpl) {
 ?><a class="banner" href="https://pixelatedparadise.store/es/" title="">
       <img src="https://pixelatedparadise.store/modules/ps_banner/img/sale70.png" alt="" title="" class="img-fluid" loading="lazy" width="1110" height="213">
   </a>

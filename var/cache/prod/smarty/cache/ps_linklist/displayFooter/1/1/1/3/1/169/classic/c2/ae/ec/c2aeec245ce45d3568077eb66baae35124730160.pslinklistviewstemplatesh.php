@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.48, created on 2023-05-08 09:46:28
+/* Smarty version 3.1.48, created on 2023-11-13 15:52:17
   from 'module:pslinklistviewstemplatesh' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.48',
-  'unifunc' => 'content_64590b44103ab9_39848090',
+  'unifunc' => 'content_65528c81697901_77726117',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,13 +18,13 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_64590b44103ab9_39848090 (Smarty_Internal_Template $_smarty_tpl) {
+function content_65528c81697901_77726117 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
   'renderLogo' => 
   array (
     'compiled_filepath' => '/home/ecsdcdwc/public_html/var/cache/prod/smarty/compile/classiclayouts_layout_full_width_tpl/65/65/f1/6565f16489ef14e639396c4370908f8f7f2cbccd_2.file.helpers.tpl.php',
     'uid' => '6565f16489ef14e639396c4370908f8f7f2cbccd',
-    'call_name' => 'smarty_template_function_renderLogo_174665068864590b43d7d9c5_15646468',
+    'call_name' => 'smarty_template_function_renderLogo_19817641965528c812e7582_37527909',
   ),
 ));
 ?><div class="col-md-6 links">
@@ -109,10 +109,10 @@ $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, arra
             <a
                 id="link-cms-page-4-2"
                 class="cms-page-link"
-                href="https://pixelatedparadise.store/es/content/sobre-nosotros-4"
+                href="https://pixelatedparadise.store/es/content/quienes-somos-4"
                 title="Averigüe más sobre nosotros"
                             >
-              Sobre nosotros
+              Quienes somos
             </a>
           </li>
                   <li>
@@ -133,26 +133,6 @@ $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, arra
                 title="Contáctenos"
                             >
               Contacte con nosotros
-            </a>
-          </li>
-                  <li>
-            <a
-                id="link-static-page-sitemap-2"
-                class="cms-page-link"
-                href="https://pixelatedparadise.store/es/mapa del sitio"
-                title="¿Perdido? Encuentre lo que está buscando"
-                            >
-              Mapa del sitio
-            </a>
-          </li>
-                  <li>
-            <a
-                id="link-static-page-stores-2"
-                class="cms-page-link"
-                href="https://pixelatedparadise.store/es/tiendas"
-                title=""
-                            >
-              Tiendas
             </a>
           </li>
               </ul>

@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.48, created on 2023-05-08 09:46:28
+/* Smarty version 3.1.48, created on 2023-11-13 15:52:17
   from 'module:pssocialfollowpssocialfol' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.48',
-  'unifunc' => 'content_64590b44065273_43618641',
+  'unifunc' => 'content_65528c815e0c76_30641730',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '80ac9ddb06fe7b43ffdd2f5cd1185536480d2577' => 
     array (
       0 => 'module:pssocialfollowpssocialfol',
-      1 => 1683513448,
+      1 => 1699857784,
       2 => 'module',
     ),
   ),
@@ -20,30 +20,30 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_64590b44065273_43618641 (Smarty_Internal_Template $_smarty_tpl) {
+function content_65528c815e0c76_30641730 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, false);
-$_smarty_tpl->compiled->nocache_hash = '213560425364590b4405fdc5_74084184';
+$_smarty_tpl->compiled->nocache_hash = '147108124665528c815dcfb0_99509122';
 ?>
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_113708378864590b44060fb3_56877936', 'block_social');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_88067569465528c815ddb77_82484496', 'block_social');
 ?>
 
 <?php }
 /* {block 'block_social'} */
-class Block_113708378864590b44060fb3_56877936 extends Smarty_Internal_Block
+class Block_88067569465528c815ddb77_82484496 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'block_social' => 
   array (
-    0 => 'Block_113708378864590b44060fb3_56877936',
+    0 => 'Block_88067569465528c815ddb77_82484496',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 ?>
 
-  <div class="block-social col-lg-4 col-md-12 col-sm-12">
+  <div class="block-social col-lg-12 col-md-12 col-sm-12">
     <ul>
       <?php
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['social_links']->value, 'social_link');

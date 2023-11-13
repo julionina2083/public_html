@@ -38,7 +38,7 @@
                 {/if}
             {/if}
             {if $idxCol > ($numCols - $numColsRemaining_sm)}
-                {if $numColsRemaining_md == 1}
+                {if $numColsRemaining_sm == 1}
                     {assign var=offsetCol_sm value="offset-sm-3"}
                 {else}
                     {assign var=sizeCol_sm value=(12 / $numColsRemaining_md)}
