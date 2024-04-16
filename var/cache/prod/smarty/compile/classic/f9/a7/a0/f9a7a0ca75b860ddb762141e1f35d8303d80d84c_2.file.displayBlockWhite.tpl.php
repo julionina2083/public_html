@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.48, created on 2023-11-13 16:05:04
+/* Smarty version 3.1.48, created on 2024-04-15 22:23:07
   from '/home/ecsdcdwc/public_html/modules/blockreassurance/views/templates/hook/displayBlockWhite.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.48',
-  'unifunc' => 'content_65528f809356c5_61549957',
+  'unifunc' => 'content_661def1bca2a45_03933863',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_65528f809356c5_61549957 (Smarty_Internal_Template $_smarty_tpl) {
+function content_661def1bca2a45_03933863 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="blockreassurance col-sm-12">
     <?php $_smarty_tpl->_assignInScope('numCols', count($_smarty_tpl->tpl_vars['blocks']->value));?>
     <?php $_smarty_tpl->_assignInScope('numColsRemaining_md', ($_smarty_tpl->tpl_vars['numCols']->value%4));?>

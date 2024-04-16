@@ -1,5 +1,5 @@
 #header, #header .header-top {
-  background-color: white;
+  background-color: #36454F;
 }
 
 #search_widget {
@@ -68,6 +68,6 @@
 
 @media only screen and (min-width: 992px) {
   #search_widget {
-    min-width: 16.5rem;
+    min-width: 12rem;
   }
 }
